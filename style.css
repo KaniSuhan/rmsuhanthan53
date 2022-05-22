@@ -1,0 +1,14 @@
+.body_backgorund 
+{
+    background-image:url(88c5d7ebd64c2e586615d78684cdb194.gif);
+    background-position:center;
+    background-size:10;
+}
+#myCanvas
+{
+   border-width:10px;
+   background-color:white;
+   border-style:ridge;
+border-color:darkviolet;
+}
+
